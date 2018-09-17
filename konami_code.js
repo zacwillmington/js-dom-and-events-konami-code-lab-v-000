@@ -8,7 +8,7 @@ function init() {
 
       if (key === code[index]){
           index++;
-
+          alert("dksns");
           if(key === code.length){
               alert("Congrats!!!");
               index = 0;
